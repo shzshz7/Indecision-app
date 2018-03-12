@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 {
     "presets": ["env","react"],
     "plugins":["transform-class-properties"]
-=======
-{
-    "presets": ["env","react"],
-    "plugins":["transform-class-properties"]
->>>>>>> ea5a41ba284f67198f0c124faf826847d5cb5247
 }
